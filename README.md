@@ -1,2 +1,2 @@
-Personal site [here](erinpark.org).
+Personal site [here](http://www.erinpark.org).
 
